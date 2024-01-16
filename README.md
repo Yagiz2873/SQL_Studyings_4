@@ -1,1 +1,2 @@
 # SQL_Studyings_4
+As you can see, I've continued my SQL journey with a lot of complex queries and new keywords. By using IS NULL/IS NOT NULL keyword, we can find out whether a column contains NULL values or not. As an alternative to WHERE, we can use HAVING keyword to add conditions to our queries. Sometimes, we may not add WHERE after FROM keyword because of the complexity of the query. (Main-subquery relations, usage of GROUP BY). Instead of WHERE, we may add HAVING keyword after our GROUP BY to add conditions. 
